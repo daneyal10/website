@@ -320,6 +320,7 @@ a.active {
 
 .about-img-div img {
     margin: 0 auto;
+    border: 10px solid #425BB5;
 }
 
 .about-border {
